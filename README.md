@@ -5,4 +5,5 @@ It will literally annihilate the victim's computer so he will not be able to use
 You don't want to destroy your own computer, supposedly.
 But you can use it as an exploit with Metasploit 
 if you have the skills for it.
-The virus file is the one named delreg.bat.
+The virus file is the one named SoD_delreg.bat.
+SoD as in short for Sphere of Death.
